@@ -1,0 +1,17 @@
+body{
+    background-color: darksalmon;
+}
+h1,h2{
+    color: red;
+    
+}
+ol{
+    color: darkred;
+}
+ul{
+    color: darkred;
+    letter-spacing: 5px;
+}
+p{
+    color: darkred;
+}
